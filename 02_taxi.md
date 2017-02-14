@@ -6,5 +6,5 @@
 
 ### taxi-v2 (graph)
 <div style="width:50%; margin:auto; margin-bottom:10px; margin-top:20px;">
-<img style="width:100%" src="gif/taxi.png">
+<img style="width:100%" src="images/taxi.png">
 </div>
