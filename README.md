@@ -1,5 +1,5 @@
 # openai gym
 ## FrozenLake
-### source
-### [monitor (gif)](frozenlake.md)
+### 01-1. source
+### 01-2. [monitor (gif)](frozenlake.md)
 

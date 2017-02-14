@@ -11,7 +11,7 @@
 </div>
 
 ### 8x8 map (e-greedy+noise) 
-4,000 episodes.
+4,000 episodes. (success)
 <div style="width:50%; margin:auto; margin-bottom:10px; margin-top:20px;">
 <img style="width:100%" src="gif/frozenlake_map_8_by_8_noise.gif">
 </div>
